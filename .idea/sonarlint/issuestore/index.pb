@@ -11,3 +11,6 @@ D
 ms-prueba-datos.json,3\0\304aa78beecdc9b751bbb0a2dde6048803a26ccd
 >
 unit-test.json,7\f\7f5787ad4189af0ee2b6d7aebcacac114cddad73
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
